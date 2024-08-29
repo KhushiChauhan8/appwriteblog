@@ -1,5 +1,9 @@
+"engines": {
+  "node": ">=14.0.0"
+}
+
 {
-  "name": "12megablog",
+ "name": "12megablog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
